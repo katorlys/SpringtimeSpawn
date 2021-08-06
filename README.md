@@ -1,7 +1,7 @@
 # Springtime Spawn
 ## Introduction
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic1.PNG">
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic1.PNG">
 
 This Springtime Spawn is surrounded by beautiful green trees and shallow water. There are four rocky roads stretching to the end of the Spawn for enjoying the magnificent scenery around it.<br>
 <br>
@@ -12,27 +12,27 @@ This Springtime Spawn is surrounded by beautiful green trees and shallow water. 
 
 ## Pictures
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic2.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic2.PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic3.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic3.PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic4.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic4.PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic5.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic5.PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic6.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic6.PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic7.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic7.PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic8.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic8.PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic9.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic9.PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlymc/SpringtimeSpawn/screenshots/pic10.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic10.PNG"><br>
 
 ## Download
 
-<a href="https://github.com/katorlymc/SpringtimeSpawn/raw/master/SpringtimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download1.png"></a><a href="https://github.com.cnpmjs.org/katorlymc/SpringtimeSpawn/raw/master/SpringtimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download2.png"></a><a href="https://hub.fastgit.org/katorlymc/SpringtimeSpawn/raw/master/SpringtimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download3.png"></a><br>
+<a href="https://github.com/katorly/SpringtimeSpawn/raw/master/SpringtimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download1.png"></a><a href="https://github.com.cnpmjs.org/katorly/SpringtimeSpawn/raw/master/SpringtimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download2.png"></a><a href="https://hub.fastgit.org/katorly/SpringtimeSpawn/raw/master/SpringtimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download3.png"></a><br>
 Still unable to download? Try downloading the entire repository through the mirror sites.<br>
 
 ## Notice
