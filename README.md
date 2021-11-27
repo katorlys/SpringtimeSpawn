@@ -1,34 +1,29 @@
 # Springtime Spawn
 ## Introduction
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic1.PNG">
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic(1).PNG">
 
 This Springtime Spawn is surrounded by beautiful green trees and shallow water. There are four rocky roads stretching to the end of the Spawn for enjoying the magnificent scenery around it.<br>
 <br>
-<b>Game Version:</b> Java 1.16.5<br>
-<b>Supported Version:</b> Java 1.14+<br>
+<b>Native Version:</b> Java 1.16.5<br>
 <b>Approximate Size:</b> 80x80<br>
 <b>File Type:</b> SCHEMATIC<br>
 
-## Pictures
+## Landscape
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic2.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic(2).PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic3.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic(3).PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic4.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic(4).PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic5.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic(5).PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic6.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic(6).PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic7.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic(7).PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic8.PNG"><br>
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic9.PNG"><br>
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic10.PNG"><br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/katorly/SpringtimeSpawn/screenshots/pic(8).PNG"><br>
 
 ## Download
 
