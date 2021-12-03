@@ -38,4 +38,4 @@ Still unable to download? Try downloading the entire repository through the mirr
 - Pasting the schematic file with WorlEdit in-game may cause the game to crash, so it is recommended to use softwares such as McEdit or use FastAsyncWorldEdit to import it in a server.
 - If you are pasting the schematic file in-game with WorldEdit, make sure to use "//paste -e".
 
-[![License](https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-green?style=for-the-badge)](http://creativecommons.org/licenses/by-nc-nd/4.0)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--ND--4.0-green?style=for-the-badge)](http://creativecommons.org/licenses/by-nc-nd/4.0)
