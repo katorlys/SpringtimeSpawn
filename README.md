@@ -27,8 +27,8 @@ This Springtime Spawn is surrounded by beautiful green trees and shallow water. 
 
 ## Download
 
-<a href="https://github.com/katorlys/SpringtimeSpawn/raw/main/SpringtimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download1.png"></a><a href="https://github.com.cnpmjs.org/katorlys/SpringtimeSpawn/raw/main/SpringtimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download2.png"></a><a href="https://hub.fastgit.org/katorlys/SpringtimeSpawn/raw/main/SpringtimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download3.png"></a><br>
-Still unable to download? Try downloading the entire repository through the mirror sites.<br>
+<a href="https://github.com/katorlys/SpringtimeSpawn/raw/main/SpringtimeSpawn.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/github-download.png"></a><a href="https://cdn.jsdelivr.net/gh/katorlys/SpringtimeSpawn/SpringtimeSpawn.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/jsdelivr-download.png"></a><a href="https://github.katorly.workers.dev/katorlys/SpringtimeSpawn/raw/main/SpringtimeSpawn.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/cloudflare-download.png"></a><br>
+Unable to download? Try downloading the entire repository.<br>
 
 ## Notice
 
